@@ -161,7 +161,7 @@ def make_text(text):
     return text
 
 make_text("Bora Tutumluer")
-
+# ['BORA', 'TUTUMLUER']
 
 
 
